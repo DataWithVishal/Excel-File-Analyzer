@@ -32,3 +32,6 @@ seaborn
 Contributions are welcome! Please submit a pull request or open an issue for suggestions and improvements.
 ## License
 MIT License
+
+## To DO :
+Add List based code execution over Different Models, Different Cleaning Techniques, etc.
